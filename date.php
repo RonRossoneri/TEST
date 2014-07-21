@@ -3,6 +3,9 @@
 <body> 
 
 <?php
+// EDIT: ALIU
+echo "You dumb ass get out of my shit hole";
+// END: ALIU
 echo "Today is " . date("Y/m/d") . "<br>";
 echo "Today is " . date("Y.m.d") . "<br>";
 echo "Today is " . date("Y-m-d") . "<br>";
